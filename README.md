@@ -6,7 +6,7 @@ error values and lag terms in calculation. It functions by relying on regressing
 
 </br>
 
-Further information about the project can be read here.
+Further information about the project can be read [here](Gold_Price_Prediction_Using_ARIMA.pdf).
 
 </br>
 
